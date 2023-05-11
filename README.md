@@ -1,3 +1,3 @@
 # YOLOObjectDetection Project
 
-Hardhat detection with YOLOv5
+Construction safety wear detection with YOLOv5
